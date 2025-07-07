@@ -45,5 +45,5 @@ This project description emphasizes your role in leveraging Docker , Kubernetes,
 > 📚 This project is inspired by [Londhe Shubham's k8s-kind-voting-app](https://github.com/LondheShubham153/k8s-kind-voting-app). I customized it with Kubernetes Dashboard, ArgoCD, and additional monitoring for personal learning and DevOps practice.
  ---
 > 📸 You can view the complete visual setup in my enhanced version here:  
-👉 [Kani-shk/k8s-dashboard-argocd](https://github.com/Kani-shk/k8s-dashboard-argocd)
+👉 [Kani-shk/k8s-dashboard-argocd](https://github.com/Kani-shk/argoCD-dashboard.git)
 
