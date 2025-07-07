@@ -1,6 +1,6 @@
 # K8s Kind Voting App
 
-A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
+Setting up a Kubernetes cluster using Kind on installing and configuring Argo CD, and deploying applications using Argo CD.
 
 ## Overview
 
@@ -43,5 +43,7 @@ This project description emphasizes your role in leveraging Docker , Kubernetes,
 
 ----
 > 📚 This project is inspired by [Londhe Shubham's k8s-kind-voting-app](https://github.com/LondheShubham153/k8s-kind-voting-app). I customized it with Kubernetes Dashboard, ArgoCD, and additional monitoring for personal learning and DevOps practice.
-
+ ---
+> 📸 You can view the complete visual setup in my enhanced version here:  
+👉 [Kani-shk/k8s-dashboard-argocd](https://github.com/Kani-shk/k8s-dashboard-argocd)
 
